@@ -31,11 +31,12 @@ In this project we are going to be building a news feed reader. The goal is to h
 
 **Follow these steps for completing your project.**
 
-- [ ] Submit a Pull-Request to merge 
+- [ ] Submit a Pull-Request to merge
 
   <firstname-lastname> Branch into master (student's  Repo). <strong>Please don't merge your own pull request</strong></firstname-lastname>
 
 - [ ] Add your project manager as a reviewer on the pull-request
+
 - [ ] Your project manager will count the project as complete by merging the branch back into master.
 
 ### Preprocessor Setup
@@ -63,7 +64,7 @@ If you complete the main goals of the page let's play around with some cool anim
 
 A few things to check out:
 
-- Native CSS Animations. 
+- Native CSS Animations.
 
   - CSS has the ability to animate elements using a number of different properties. Check out `transform` and `transition`, and `animate`. A word of warning, these CSS properties will act differently on different browsers, so always read and see if you need a `browser prefix` in order to animate properly.
   - <https://css-tricks.com/almanac/properties/a/animation/>
